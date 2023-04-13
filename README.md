@@ -1,5 +1,5 @@
 # ClearMind Chrome Extension
-
+ 
 ClearMind is a Google Chrome extension that disables distracting elements on a webpage for easy focus and reading. 
 This allows you to easily toggle the extension on and off as needed, restoring the original styling of the page.
 
